@@ -1,3 +1,5 @@
+# HCI - KOMUNIKACIJA ČOVEK-RAČUNAR | HUMAN COMPUTER INTERACTION
+
 Kreirana je WPF aplikacija za monitoring izmerenih vrednosti elemenata sistema/mreže (NetworkService). Pored aplikacije za monitoring, koristiće se i simulatorska 
 aplikacija (MeteringSimulator, već implementirana) koja će u nasumično izabranim vremenskim trenucima, slati nasumične brojne vrednosti, koje će aplikacija za 
 monitoring obraditi i iskoristiti. 
